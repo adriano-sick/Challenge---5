@@ -45,8 +45,6 @@ public class GameManagerX : MonoBehaviour
                 GameOver();
             }
             timeText.text = "time: " + Mathf.Round(timeLeft);
-
-            //vai caacete --'
         }
     }
 
